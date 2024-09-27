@@ -6,8 +6,8 @@ const query = ['/articles', ...slug].join('/');
 const { data: article } = await useAsyncData(async () => queryContent(query).findOne());
 
 const tags = computed(() => {
-  const _tags = article.value?.tags ?? [];
-  return _tags.split(",");
+  const _tags = article.value?.tags ?? false;
+  return _tags == true ? _tags.split(",") : [];
 });
 </script>
 

@@ -46,5 +46,13 @@ export default defineNuxtConfig({
   routeRules: {
     '/articles': { prerender: true }
   },
-  compatibilityDate: "2024-09-19"
+  compatibilityDate: "2024-09-19",
+  nitro: {
+    static: true,
+    prerender: {
+      failOnError: false,
+      crawlLinks: true,
+      concurrency: 12,
+    }
+  },
 })
