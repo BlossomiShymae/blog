@@ -1,10 +1,3 @@
-<script setup lang="ts">
-import AOS from "aos";
-import "aos/dist/aos.css";
-
-AOS.init();
-</script>
-
 <template>
   <NuxtLoadingIndicator />
   <NuxtLayout>

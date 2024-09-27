@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxt/content', "@nuxt/image"],
-  ssr: false,
+  ssr: true,
   app: {
     baseURL: "/blog/",
     pageTransition: {
