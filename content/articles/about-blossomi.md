@@ -37,9 +37,8 @@ This is what I currently take for HRT at the time of this article:
 
 I do intramuscular injection, alternating betwen my thighs every five days to obtain a trough over 200pg/ml for my estradiol levels. I'm aiming for estrogen monotherapy in the near future so I can cut out spironolactone. It'll take time as I'll need to get my levels checked and adjust as needed every three months for that goal.
 
-I have used the following resources when researching for HRT:
+I have used the following resource when researching for HRT:
 - [Transfem Science](https://transfemscience.org/)
-- [The DIY HRT Directory](https://diyhrt.wiki/index)
 
 ## Contact
 
