@@ -17,6 +17,14 @@ export default defineNuxtConfig({
       htmlAttrs: {
         "data-bs-theme": "dark",
       },
+      meta: [
+        { name: "viewport", content: "width=device-width, initial-scale=1" },
+        { name: "title", content: "Blossomi's Blog"},
+        { name: "og:title", content: "Blossomi's Blog"},
+        { name: "og:description", content: "The blog of a trans elf girl."},
+        { name: "og:image", content: "https://blossomishymae.github.io/blog/img/avatar.png"},
+        { name: "theme-color", content: "#000000"}
+      ],
       link: [
         {
           rel: "stylesheet",
