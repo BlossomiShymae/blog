@@ -16,7 +16,7 @@ There are many ways you can obtain balance changes data:
 - [Meraki Analytics CDN](http://cdn.merakianalytics.com/riot/lol/resources/latest/en-US/champions.json)
 - Manually scraping from League Fandom
 
-If you're app is in an environment that allows the usage of external CLI tools, scripts, or resources, then I recommend using any of the above to save time. :3
+If your app is in an environment that allows the usage of external CLI tools, scripts, or resources, then I recommend using any of the above to save time. :3
 
 These pages are of interest if you want to scrape changes.
 - https://leagueoflegends.fandom.com/wiki/ARAM
