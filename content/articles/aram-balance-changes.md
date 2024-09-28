@@ -12,7 +12,7 @@ ARAM balance changes and other effects is a commonly requested feature on the [T
 There are many ways you can obtain balance changes data:
 
 - [Aurora Box](https://github.com/BlossomiShymae/AuroraBox)
-- [lolstaticassets](https://github.com/meraki-analytics/lolstaticdata)
+- [lolstaticdata](https://github.com/meraki-analytics/lolstaticdata)
 - [Meraki Analytics CDN](http://cdn.merakianalytics.com/riot/lol/resources/latest/en-US/champions.json)
 - Manually scraping from League Fandom
 
